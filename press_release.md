@@ -1,0 +1,9 @@
+~500 words
+
+Smartbear Release's a Machine Learning Based IDE for Modern Development Teams
+
+SOMERVILLE, Mass. -- July 27th, 2018 -- Smartbear, the leader in software quality tools for teams, today released Metis - a cutting edge integrated developer environment designed from the ground up for modern software development teams. With a history of supporting applications and users across the entire software development life cycle, Smartbear was in a unique position to discover issues that teams across various industries face every day. These common issues became the catalyst for the new developer experience, and by harnessing machine learning algorithms, Metis will provide the most intelligent, sophisticated and scalable IDE available today.
+
+Modern software development depends heavily on scalability, applications written today need to support the teams and users of tomorrow and beyond. The majority of modern langauges rely on package management platforms to ensure local development applications run exactly like production level deployments - but deviations in the packages being used can create more issues than it solves. Metis is designed with package management at its foundation, ensuring the application on a developer's machine runs with the same dependencies and stability as when it will be deployed to a production environment.
+
+Managing packagaes across distributed teams isn't easy, and as teams and projects scale commonly this becomes a compounding issue. Metis introduces a dynamic system that scans development environments across entire teams to ensure standards are in place and maintained for all members. Keeping local package libraries clean and up to date shouldn't be what developers focus on, writing great code is.
