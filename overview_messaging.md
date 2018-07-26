@@ -41,7 +41,7 @@ Interact with repositories directly within the tool to avoid time consuming work
 
 **Best in class support and trainings**
 
-Created by the leader in software quality tools, Smartbear ensures success regardless of scale.
+Created by the leader in software quality tools for teams, Smartbear ensures success regardless of scale.
 
     - On demand training to make the most of advanced features.
     - In product support to help resolve issues as they happen.
