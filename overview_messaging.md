@@ -1,3 +1,3 @@
-# Metis
+# METIS
 ## Machine Learning Powered IDE for Modern Development Teams
-### Intelligent Package Maintenance Where It Matters Most
+### Package Focused Solution for 
