@@ -6,7 +6,7 @@
 
 **Package recommendations that get smarter over time**
 
-Stop scanning package libaries for the 'right fit' - our powerful machine learning algorithm provides intelligent suggestions based on the work you are doing.
+Stop scanning package libraries for the 'right fit' - our powerful machine learning algorithm provides intelligent suggestions based on the work you are doing.
 
     - Metis provides dynamic package suggestions, based on your environment
     - ML based algorithm gets smarter with each new project you create in **Metis**
@@ -29,7 +29,6 @@ Know when issues are discovered in your favorite packages - without scouring doc
     - **Metis** provides alternative package suggestions to keep you working
     - Know when fixes are available, the second they are deployed
 
-
 **Native git integration that scales with teams**
 
 Interact with repositories directly within the tool to avoid time consuming workspace changes.
@@ -46,3 +45,4 @@ Created by the leader in software quality tools for teams. Smartbear ensures suc
     - On demand training to make the most of advanced features.
     - In product support to help resolve issues as they occur.
     - From open source to enterprise level, Smartbear's resources are dedicated to helping you succeed.
+

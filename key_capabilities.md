@@ -1,7 +1,7 @@
 # Key Capabilities
 
 ### What does it do?
-- Lightweight IDE with native support for package based languages
+- Lightweight IDE with native support for package-based languages
 - Extension support, customizable depending on use case
 - Native plugin management
     - Define exactly which plugin version/combination on a per-project basis
@@ -20,10 +20,10 @@
 - Automation and DevOps engineers
     - Validate that developer environments align with production level services.
 
-### What does it do that seperates it from the competition?
+### What does it do that separates it from the competition?
 - Native support for package focused languages
-- Machine learning capabilities provide dynamic, relevent suggestions based on workspace setup and community usage
-- High level exposure to installed and in use packagesa
+- Machine learning capabilities provide dynamic, relevant suggestions based on workspace setup and community usage
+- High level exposure to installed and in use packages
 - Community input is largely passive
 
 ### What value does it add over its competition
@@ -37,3 +37,4 @@
 - Intelligent package recommendations
 - Full SDLC package management
 - Team-centric (know who is using what)
+

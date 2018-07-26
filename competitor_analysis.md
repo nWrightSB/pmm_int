@@ -9,7 +9,7 @@
 - Membership is offered through the Eclipse foundation at different levels
 - Distributed packages, there is no 'single' platform that supports all users
 - Requires JVM to run, as well as potentially a JDK or JRE
-- Open source, development is community direven through the Eclipse foundation
+- Open source, development is community driven through the Eclipse foundation
 
 ### Scope
 - Java
@@ -39,7 +39,7 @@
 - Built by same team behind Team City
 
 ### Weaknesses
-- Limited support for other languages, each has its own IDE that has to be installed and run, as well as maintained seperately
+- Limited support for other languages, each has its own IDE that has to be installed and run, as well as maintained separately
 
 ### Scope
 - Java + related languages (Groovy, Spring, Scala etc)
@@ -51,9 +51,9 @@
 - Documentation for community and others
 
 ### Cost
-- Open source editon supports Java, Kotlin, Groovy and Scala
+- Open source edition supports Java, Kotlin, Groovy and Scala
 - Ultimate (commercial) edition supports other languages, certain features listed above
-- $499/year for IntelliJ Ultimate ($699 for full produt suite)
+- $499/year for IntelliJ Ultimate ($699 for full product suite)
 - Individual IDEs $199/year
 
 ### Requirements
@@ -83,9 +83,9 @@
 - Documentation for community and others
 
 ### Cost
-- 'Community' editon w/limited scope
+- 'Community' edition w/limited scope
 - Professional edition w/IDE, base VSTS + TFS features $539/year
-- Enteprise edition w/IDE, full VSTS + TFS integrations $2999/year
+- Enterprise edition w/IDE, full VSTS + TFS integrations $2999/year
 
 ### Requirements
 - Windows, Mac
@@ -108,7 +108,7 @@
 
 ### Scope
 - Native JS, TS, CSS/HTML
-- Majority of langages are supported through extensions addded to tool
+- Majority of languages are supported through extensions added to tool
 
 ### Support
 - Documentation
@@ -145,3 +145,4 @@
 
 ### Requirements
 - Windows, Mac, Linux
+
