@@ -1,5 +1,5 @@
 # METIS
-## Machine Learning Powered IDE for Modern Development Teams
+## The Machine Learning Powered IDE for Modern Development Teams
 ### Discover, Maintain and Standardize Packages Across Projects of any Scale
 
 -----------------------
@@ -9,7 +9,7 @@
 
 **Powerful package management for the entire development lifecycle**
 
-From local environments all the way to production level deployments, Metis provides exposure to exactly what package versions ... Docker? Cloud etc.
+From local environments through production level deployments, Metis provides exposure to exactly what package versions ... Docker? Cloud etc.
 
 **Dynamic vulnerability alerts**
 
