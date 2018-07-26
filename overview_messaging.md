@@ -4,9 +4,9 @@
 
 -----------------------
 
-**Machine Learning backed package recommendations**
+**Package recommendations that get smarter over time**
 
-Stop scanning package libaries for the 'right fit' - a powerful algorithm provides intelligent suggestions based on the work you do.
+Stop scanning package libaries for the 'right fit' - our powerful machine learning algorithm provides intelligent suggestions based on the work you do.
 
     - Metis provides dynamic package suggestions, based on your environment
     - ML based algorithm gets smarter with each new project created in **Metis**
