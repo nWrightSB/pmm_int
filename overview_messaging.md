@@ -4,7 +4,7 @@
 
 -----------------------
 
-**Intelligent, ML backed package recommendations**
+**Machine Learning backed package recommendations**
 
 Stop scanning package libaries for the 'right fit' - a powerful algorithm provides intelligent suggestions based on the work you do.
 
