@@ -8,6 +8,7 @@
 
 
 **Powerful package management for the entire development lifecycle**
+
 From local environments all the way to production level deployments, Metis provides exposure to exactly what package versions ... Docker? Cloud etc.
 
 **Dynamic vulnerability alerts**
@@ -17,4 +18,5 @@ From local environments all the way to production level deployments, Metis provi
 
 
 **Best in class support and training from the leader in software quality tools**
+
 Created by the team behind Swaggerhub, ReadyAPI and CrossBrowserTesting, Smartbear has over a decade of experience ensuring teams success regardless of scale. From 'there when you need it' support... training?
