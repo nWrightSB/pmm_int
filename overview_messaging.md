@@ -11,7 +11,7 @@ Stop scanning package libaries for the 'right fit' - our powerful machine learni
     - Metis provides dynamic package suggestions, based on your environment
     - ML based algorithm gets smarter with each new project created in **Metis**
     - Stay up to date on new releases as they happen, right in your workspace
-    - Discover trending packages in your community, regardless of language
+    - Discover trending packages in your community regardless of language
 
 **Powerful package management for the entire development lifecycle**
 
