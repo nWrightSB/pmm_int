@@ -25,7 +25,7 @@ From local environments through production level deployments, Metis provides exp
 
 Know when issues are discovered in your favorite packages - without scouring documentation and patch notes.
 
-    - Automatically resolve vulnerabilites across the entire life cycle, as they are disovered
+    - Automatically resolve vulnerabilites across the entire life cycle, as they are discovered
     - **Metis** provides alternative suggestions to keep you working
     - Know when fixes are available the second they are deployed
 
@@ -35,7 +35,7 @@ Know when issues are discovered in your favorite packages - without scouring doc
 Interact with repositories directly within the tool to avoid time consuming workspace changes.
 
     - Ensure teams are aligned on packages automatically as changes are made.
-    - Stay up to date with team members commits with IDE based notifications.
+    - Stay up to date with team member's commits with IDE based notifications.
     - Push, pull, even switch branches without leaving the keyboard.
     - Discuss changes and suggestions with our dynamic commenting system.
 
